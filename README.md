@@ -1,3 +1,4 @@
 # Programming-Demo
 This is my first git repository
-Author - Omkar Patil
+<br>
+Author - Omkar Patil (Joyboy)
